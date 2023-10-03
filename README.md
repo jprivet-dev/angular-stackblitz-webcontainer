@@ -1,6 +1,6 @@
 # Angular, StackBlitz & WebContainer
 
-[![Project release](https://flat.badgen.net/badge/release/v0.1.0/blue)](https://github.com/jprivet-dev/angular-stackblitz-webcontainer/releases/tag/v0.1.0)
+[![Project release](https://flat.badgen.net/badge/release/v1602.0.0/blue)](https://github.com/jprivet-dev/angular-stackblitz-webcontainer/releases/tag/v1602.0.0)
 [![Angular release](https://flat.badgen.net/badge/angular/16.2.4/d93630)](https://github.com/angular/angular/releases/tag/16.2.4)
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/edit/jprivet-dev-angular-stackblitz-webcontainer)
 
