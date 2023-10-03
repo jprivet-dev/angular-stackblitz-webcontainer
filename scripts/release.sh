@@ -3,7 +3,7 @@
 # Usage:
 # $ . scripts/release.sh
 
-files="README.adoc"
+files="README.md"
 
 type gx &>/dev/null &&
 	git release "${files}" ||
